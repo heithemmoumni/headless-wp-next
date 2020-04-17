@@ -1,7 +1,7 @@
-export default dateFomat = (value) => {
-  return new Date(value).toLocaleDateString("en-en", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
+export default (value) => {
+  return new Date().toLocaleDateString('en-US', {
+    day: 'numeric',
+    month: 'short',
+    year: 'numeric',
   });
 };
