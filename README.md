@@ -3,9 +3,6 @@ Headless Wordpress on the JAMstack
 
 ### Deploy this Template
 
-Click the "Deploy to Netlify" button, and you can configure it to fit your needs.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://zeit.co/import/project?template=https://github.com/heithemmoumni/headless-wp-next-poc)
 
 ## Build Setup
 
