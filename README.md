@@ -5,12 +5,7 @@ Headless Wordpress on the JAMstack
 
 Click the "Deploy to Netlify" button, and you can configure it to fit your needs.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/heithemmoumni/headless-wp-next-poc)
-https://zeit.co/import?repository=https://github.com/heithemmoumni/headless-wp-next-poc&utm_source=next-site&utm_medium=banner&utm_campaign=next-website
-
-
-
-https://zeit.co/import/project?template=https://github.com/heithemmoumni/headless-wp-next-poc
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://zeit.co/import/project?template=https://github.com/heithemmoumni/headless-wp-next-poc)
 
 ## Build Setup
 
