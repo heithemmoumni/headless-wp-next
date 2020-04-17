@@ -4,7 +4,7 @@ Headless Wordpress on the JAMstack
 ### Deploy this Template
 
 
-## Build Setup
+### Build Setup
 
 ```bash
 # install dependencies
